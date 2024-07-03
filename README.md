@@ -7,4 +7,4 @@
 [![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=LuizGustavo17&show_icons=true&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
 
 ###### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=E-food.github.io&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=LuizGustavo17.github.io&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
