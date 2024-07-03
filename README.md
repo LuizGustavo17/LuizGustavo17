@@ -8,4 +8,4 @@
 
 ###### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=E-food&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=Ex-aniversario&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=Ex_aniversario&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
