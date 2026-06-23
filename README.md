@@ -7,7 +7,7 @@ Full-Stack Software Engineer
 [![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=LuizGustavo17&show_icons=true&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
 
 ###### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=E-food&theme=dark)](https://landing-page-singer.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=LandingPageSinger&theme=dark)](https://landing-page-singer.vercel.app/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=vidracaria_bootstrap&theme=dark)](https://vidracaria-bootstrap-nine.vercel.app/)
 
