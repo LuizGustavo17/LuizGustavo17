@@ -13,7 +13,7 @@ Full-Stack Software Engineer
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=Ex_aniversario&theme=dark)](https://ex-aniversario.vercel.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=Pagina_Avengers&theme=dark)](https://site-hunterxhunter.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavo17&repo=site_hunterxhunter&theme=dark)](https://site-hunterxhunter.vercel.app/)
 
 ###### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavo17&layout=compact)](https://github.com/anuraghzra/github-readme-stats)
