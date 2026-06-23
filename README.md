@@ -1,7 +1,7 @@
 ## Olá 👋
 
 ###### Sobre Mim
-Desenvolvedor front-end, com o uso de diversas tecnologias como React.js, Sass, Bootstrap, entre outros.
+Full-Stack Software Engineer
 
 ###### Detalhes
 [![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=LuizGustavo17&show_icons=true&theme=dark)](https://github.com/anuraghzra/github-readme-stats)
